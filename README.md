@@ -10,8 +10,8 @@
 |      이름     |                        GitHub ID                       |   역할 희망  |
 | :---------: | :----------------------------------------------------: | :------: |
 | 👩🏻‍💻 김서현 | [@kimseohyeon1533](https://github.com/kimseohyeon1533) | Frontend |
-| 👨🏻‍💻 이준현 |                       @GitHub-ID                       |   역할 입력  |
-| 👨🏻‍💻 최민혁 |                       @GitHub-ID                       |   역할 입력  |
+| 👨🏻‍💻 이준현 |                       @GitHub-ID                       |  역할 입력  |
+| 👨🏻‍💻 최민혁 |  [@arong-commits](https://github.com/arong-commits) | Backend |
 
 <br>
 
